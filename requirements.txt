@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-community
+chromadb
+openai
+sentence-transformers
+unstructured
+pdfplumber
+camelot-py
+pandas
+numpy
+scikit-learn
+streamlit
+ragas
+python-dotenv
